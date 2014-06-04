@@ -8,5 +8,5 @@ mini-progs-java
 * IntOps
 * Quadratic
 * LeapYear (using boolean operators)
-* RandomInt.java (explicit cast to int)
+* RandomInt (explicit cast to int)
 
