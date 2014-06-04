@@ -7,3 +7,6 @@ mini-progs-java
 * ex2: Hola3Names (takes 3 names as args, says hi in reversed order). 
 * IntOps
 * Quadratic
+* LeapYear (using boolean operators)
+* RandomInt.java (explicit cast to int)
+
