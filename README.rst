@@ -17,4 +17,5 @@ mini-progs-java
 * StdGaussian
 * DayOfTheWeek
 * MercatorProjection
+* RGBtoCMYK
 
