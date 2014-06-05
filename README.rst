@@ -12,7 +12,8 @@ mini-progs-java
 * Trig
 * RandomCases
 * Dice
-* CartesianToPolar.java
-* LoanPayment.java
-* StdGaussian.java
+* CartesianToPolar
+* LoanPayment
+* StdGaussian
+* DayOfTheWeek
 
