@@ -16,4 +16,5 @@ mini-progs-java
 * LoanPayment
 * StdGaussian
 * DayOfTheWeek
+* MercatorProjection
 
