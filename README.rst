@@ -9,4 +9,6 @@ mini-progs-java
 * Quadratic
 * LeapYear (using boolean operators)
 * RandomInt (explicit cast to int)
+* Trig
+* RandomCases
 
