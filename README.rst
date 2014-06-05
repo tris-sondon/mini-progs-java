@@ -11,4 +11,5 @@ mini-progs-java
 * RandomInt (explicit cast to int)
 * Trig
 * RandomCases
+* Dice
 
