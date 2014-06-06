@@ -22,5 +22,6 @@ mini-progs-java
 * PowersOfTwo 
 * PowersOfTwoFor
 * DivisorPattern
+* Harmonic
 
 
