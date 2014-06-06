@@ -23,5 +23,7 @@ mini-progs-java
 * PowersOfTwoFor
 * DivisorPattern
 * Harmonic
+* Sqrt (by Newton's Method)
+
 
 
