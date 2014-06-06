@@ -21,5 +21,6 @@ mini-progs-java
 * Flip
 * PowersOfTwo 
 * PowersOfTwoFor
+* DivisorPattern
 
 
