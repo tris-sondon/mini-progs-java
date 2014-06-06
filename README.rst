@@ -18,4 +18,6 @@ mini-progs-java
 * DayOfTheWeek
 * MercatorProjection
 * RGBtoCMYK
+* Flip
+
 
