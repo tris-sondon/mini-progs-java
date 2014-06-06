@@ -20,5 +20,6 @@ mini-progs-java
 * RGBtoCMYK
 * Flip
 * PowersOfTwo 
+* PowersOfTwoFor
 
 
