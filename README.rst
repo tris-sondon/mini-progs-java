@@ -19,5 +19,6 @@ mini-progs-java
 * MercatorProjection
 * RGBtoCMYK
 * Flip
+* PowersOfTwo 
 
 
