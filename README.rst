@@ -32,6 +32,7 @@ mini-progs-java
 * DayOfTheWeekSwitch (use of switch statement)
 * FullQuadratic
 * TestingLoops
+* Enteros
 
 
 
