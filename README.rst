@@ -30,6 +30,7 @@ mini-progs-java
 * Factors
 * IsPrime (use of break statement)
 * DayOfTheWeekSwitch (use of switch statement)
+* FullQuadratic
 
 
 
