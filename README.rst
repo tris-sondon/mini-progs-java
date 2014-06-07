@@ -26,6 +26,7 @@ mini-progs-java
 * Sqrt (by Newton's Method)
 * Binary
 * Gambler
+* Gambler2
 
 
 
