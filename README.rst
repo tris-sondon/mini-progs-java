@@ -29,6 +29,8 @@ mini-progs-java
 * Gambler2
 * Factors
 * IsPrime (use of break statement)
+* DayOfTheWeekSwitch (use of switch statement)
+
 
 
 
