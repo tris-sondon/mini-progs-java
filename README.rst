@@ -27,6 +27,7 @@ mini-progs-java
 * Binary
 * Gambler
 * Gambler2
+* Factors
 
 
 
