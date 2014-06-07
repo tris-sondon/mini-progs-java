@@ -34,6 +34,7 @@ mini-progs-java
 * TestingLoops
 * Enteros
 * AvgRandom
+* FunctionGrowth
 
 
 
