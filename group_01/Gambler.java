@@ -1,3 +1,12 @@
+// Simulation of a gambler that makes 1$ bets
+//
+// stake: Initial stake
+// goal: amount of money that will stop the simulation
+// T: number of trials
+// bets: bet count
+// wins: wins count
+// cash: cash left
+
 public class Gambler
 {
     public static void main(String[] args)
