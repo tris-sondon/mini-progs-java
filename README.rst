@@ -33,6 +33,7 @@ mini-progs-java
 * FullQuadratic
 * TestingLoops
 * Enteros
+* AvgRandom
 
 
 
