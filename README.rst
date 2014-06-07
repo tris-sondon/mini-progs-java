@@ -31,6 +31,7 @@ mini-progs-java
 * IsPrime (use of break statement)
 * DayOfTheWeekSwitch (use of switch statement)
 * FullQuadratic
+* TestingLoops
 
 
 
