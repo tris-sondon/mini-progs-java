@@ -24,6 +24,8 @@ mini-progs-java
 * DivisorPattern
 * Harmonic
 * Sqrt (by Newton's Method)
+* Binary
+
 
 
 
