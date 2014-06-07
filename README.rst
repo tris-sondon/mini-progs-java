@@ -35,6 +35,11 @@ mini-progs-java
 * Enteros
 * AvgRandom
 * FunctionGrowth
+* ex1_3_12.java
+* ex1_3_13.java 
+* ex1_3_16.java
+
+
 
 
 
