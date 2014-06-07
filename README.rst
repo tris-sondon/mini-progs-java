@@ -25,6 +25,7 @@ mini-progs-java
 * Harmonic
 * Sqrt (by Newton's Method)
 * Binary
+* Gambler
 
 
 
