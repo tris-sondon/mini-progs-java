@@ -28,6 +28,7 @@ mini-progs-java
 * Gambler
 * Gambler2
 * Factors
+* IsPrime (use of break statement)
 
 
 
