@@ -12,7 +12,7 @@ public class Sample
         }
         for (int i = 0; i < M; i++)
         {
-            int r = i + (int) (Math.random() * (N - 1));
+            int r = i + (int) (Math.random() * (N - i));
             int t = perm[r];
             perm[r] = perm[i];
             perm[i] = t;
