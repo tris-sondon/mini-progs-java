@@ -1,6 +1,9 @@
 mini-progs-java
 ===============
 
+Group 02
+.........
+
 * HolaMundo
 * Hola (uses command line argument)
 * ex1: HolaMundo10 (no loops)
