@@ -6,7 +6,7 @@ public class PrimeSieve
         boolean isPrime[] = new boolean[N+1];
         
         // Initialize array
-        for (int i = 2; i <= N/i; i++) 
+        for (int i = 2; i <= N; i++) 
         {
             isPrime[i] = true;    
         }
