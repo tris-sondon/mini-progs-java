@@ -1,8 +1,8 @@
 mini-progs-java
 ===============
 
-Group 02
-.........
+Group 01: very basic programs to learn syntax
+...............................................
 
 * HolaMundo
 * Hola (uses command line argument)
@@ -43,13 +43,15 @@ Group 02
 * ex1_3_16
 
 
-Group 02
-.........
+Group 02:
+...................................................
 
 * Sample
 * InvertArray
 * Fichas
 * PrimeSieve
+* SelfAvoidingRandomWalks
+
 
 
 
