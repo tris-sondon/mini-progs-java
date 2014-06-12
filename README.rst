@@ -59,6 +59,8 @@ Group 03:
 * SetLocale (fix the ridiculous java behaviour that reads doubles with commas and prints them with dots
   as the decimal separator when locale is in spanish for example).
 * NumAverage
+* RandomNums
+
 
 
 
