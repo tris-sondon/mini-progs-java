@@ -60,6 +60,7 @@ Group 03:
   as the decimal separator when locale is in spanish for example).
 * NumAverage
 * RandomNums
+* RangeFilter
 
 
 
