@@ -67,6 +67,7 @@ Group 04: Drawings
 
 * Triangles
 * Curva
+* Plot (Takes coordinates from standard input)
 
 
 
