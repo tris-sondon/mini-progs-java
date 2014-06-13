@@ -9,5 +9,9 @@ public class Curva
         {
             StdDraw.line(0, N-i, i, 0);    
         }
+        for (int i = 0; i <= N; i++) 
+        {
+            StdDraw.line(i, N, N, N-i);    
+        }
     }
 }
