@@ -73,12 +73,8 @@ Group 04: Drawings
 Group 05: Sound
 ...................................................
 
-* PlayLa: Plays concert A for 10 seconds
-* PlayTune: reads a tune from standard input and plays it
+* PlayLa (Plays concert A for 10 seconds)
+* PlayTune (reads a tune from standard input and plays it)
    - para_elisa.txt: file with the frist few notes of Fur Elise to test program.
-
-
-para_elisa.txt  PlayLa.class  PlayLa.java  PlayTune.class  PlayTune.java  StdAudio.class  StdAudio.java
-
 
 
