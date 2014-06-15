@@ -29,13 +29,12 @@ public class SqrtByNewton
         for (int i = 0; i < N; i++) 
         {
             num[i] = Double.parseDouble(args[i]);
-            System.out.println(num[i]);
         }
-        System.out.println();
+        System.out.printf("%12s %12s\n", "N", "Sqrt(N)");
         for (int i = 0; i < N; i++) 
         {
             double s = sqrt(num[i]);
-            System.out.println(s);
+            System.out.printf("%12.5f %12.5f\n", num[i], s);
         }
     }
 }
