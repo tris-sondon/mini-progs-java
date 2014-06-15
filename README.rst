@@ -77,4 +77,7 @@ Group 05: Sound
 * PlayTune (reads a tune from standard input and plays it)
 * para_elisa.txt (file with the frist few notes of Fur Elise to test PlayTune)
 
+Group 06: Functions and Modules
+...................................................
 
+* SqrtByNewton
