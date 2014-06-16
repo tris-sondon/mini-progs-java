@@ -80,4 +80,7 @@ Group 05: Sound
 Group 06: Functions and Modules
 ...................................................
 
-* SqrtByNewton
+* SqrtByNewton: Calculation of Sqrt by Newton's method: refactoring of the previuos code 
+          to devide it into static methods.
+
+
