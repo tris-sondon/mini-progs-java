@@ -6,10 +6,14 @@
 //      - Can take several numbers from command line, for easy testing.
 //
 
+import java.util.Locale;
+
 public class SqrtByNewton 
 {
     public static double sqrt(double c)
     {
+        Locale.setDefault(Locale.US);
+
         if (c < 0) return Double.NaN;
         double epsilon = 1e-15;
         double t = c; // initial estimate
