@@ -17,9 +17,9 @@ public class NormalDist
         for (int i = 3; sum != sum + term; i += 2) 
         {
            sum += term;
-           term = term * z * z * i;
+           term = term * z * z / i;
         }
-        return 0.5 + normd(z) + sum;
+        return 0.5 + normd(z) * sum;
     }
 
     public static void main (String [] args)
