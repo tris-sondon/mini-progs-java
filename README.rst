@@ -82,5 +82,7 @@ Group 06: Functions and Modules
 
 * SqrtByNewton: Calculation of Sqrt by Newton's method: refactoring of the previuos code 
           to devide it into static methods.
+* NormalDist: Returns the cumulative normal distribution given z, mu and sigma.
+
 
 
