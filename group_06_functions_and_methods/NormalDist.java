@@ -1,3 +1,5 @@
+import java.util.Locale;
+
 public class NormalDist 
 {
     public static double normd(double x)
@@ -24,6 +26,7 @@ public class NormalDist
 
     public static void main (String [] args)
     {
+        Locale.setDefault(Locale.US);
         double z = Double.parseDouble(args[0]);
         double mu = Double.parseDouble(args[1]);
         double sigma = Double.parseDouble(args[2]);
