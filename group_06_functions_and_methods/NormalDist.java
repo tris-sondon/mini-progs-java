@@ -13,7 +13,7 @@ public class NormalDist
         if (z < -8) return 0.0;
         if (z > 8) return 1.0;
 
-        // Integrate density
+        // Calculate Integral by Taylor approximation
         double sum = 0.0;
         double term = z;
         for (int i = 3; sum != sum + term; i += 2) 
