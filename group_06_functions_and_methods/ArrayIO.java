@@ -15,6 +15,21 @@ public class ArrayIO
         }
         return a;
     }
+    public static double[][] readDouble2D()
+    {
+        int N = in.nextInt();
+        int M = in.nextInt();
+        double[][] a = new double[N][M];
+
+        for (int i = 0; i < N; i++)
+        {
+            for (int j = 0; j < M; j++) 
+            {
+                a[i][j] = in.nextDouble();     
+            }
+        }
+        return a;
+    }
     public static void print(double[] a)
     {
         for (int i = 0; i < a.length; i++) 
@@ -28,22 +43,18 @@ public class ArrayIO
     {
         for (int i = 0; i < a.length; i++) 
         {
-            for (int j = 0; i < a[0].length; i++) 
+            for (int j = 0; j < a[0].length; j++) 
             {
-                System.out.print(a[i][j]);    
+                System.out.print(a[i][j] + "  ");    
             }
             System.out.println();
         }
     }
 
-    /* public static double[] readDouble2D() */
-    /* { */
-    /*      */
-    /* } */
-
     public static void main (String [] args)
     {
         Locale.setDefault(Locale.US);
-        print(readDouble1D());
+        /* print(readDouble1D()); */
+        print(readDouble2D());
     }
 }
