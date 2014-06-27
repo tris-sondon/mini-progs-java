@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class Factorial 
 {
     public static long factorial(int N)
@@ -13,10 +11,8 @@ public class Factorial
 
     public static void main (String [] args)
     {
-        int N = 0;
-        Scanner in = new Scanner(System.in);
+        int N = Integer.parseInt(args[0]);
 
-        N = in.nextInt();
         if (N >= 0) 
         {
             System.out.println("Factorial of: " + N + " = " + factorial(N));
