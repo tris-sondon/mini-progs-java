@@ -84,6 +84,14 @@ Group 06: Functions and Modules
           to devide it into static methods.
 * NormalDist: Returns the cumulative normal distribution given z, mu and sigma.
 * PlayTuneHarmonics: plays first frase of Fur Elise, now adding harmonics.
+* ArrayIO (to be completed).
 
+
+Group 07: Recursion
+...................................................
+
+* Factorial
+* Euclid 
+* TowersOfHanoi
 
 
