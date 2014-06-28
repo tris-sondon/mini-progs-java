@@ -18,6 +18,7 @@ public class TowersOfHanoi
     public static void main (String [] args)
     {
         int n = Integer.parseInt(args[0]);
+        System.out.println(n + "  " + (int)(Math.pow(2,n)-1));
         moves(n, true);
     }
 }
